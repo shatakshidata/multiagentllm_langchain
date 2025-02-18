@@ -7,13 +7,6 @@ A minimal multi-agent system powered by LangChain and large language models (LLM
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
